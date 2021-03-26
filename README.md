@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @t-rhex.
-- 👀 I’m interested in Software Dev, DevOps Microservices , Azure AI and API's
+- 👀 I’m interested in Software Dev, DevOps, Microservices, Azure AI and API's
 - 🌱 I’m currently learning DevOps
 - 📫 You can reach me at it_bud@yahoo.com
 
