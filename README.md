@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @t-rhex.
 - 👀 I’m interested in Software Dev, DevOps, Microservices, Azure AI and API's
-- 🌱 I’m currently learning DevOps
-- 📫 You can reach me at aadhikari2006@gmail.com
+- 🌱 I’m currently working as Software Engineer
+- 📫 You can reach me at hello@andrewadhikari.com
 
 <!---
 it-bud/it-bud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
