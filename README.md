@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Andrew Adhikari
-- 👀 I’m interested in DevOps, Software Dev, Microservices, Azure AI, AWS and LLM's
-- 🌱 I’m currently working as a Software Engineer
-- 📫 You can reach me @ andrewadhikari2016@gmail.com or @ www.andreew.dev
+- 👀 I’m interested in DevSecOps, Software Dev, Microservices, Azure AI, AWS and LLM's
+- 📫 You can reach me @ andrewadhik@gmail.com or @ www.andreew.dev
 
 <!---
 it-bud/it-bud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
